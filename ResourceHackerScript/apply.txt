@@ -1,0 +1,7 @@
+[FILENAMES]
+Exe=     C:\Tools\DNS-Info-Beacon\build\dns_x64.exe
+SaveAs=  C:\Tools\DNS-Info-Beacon\build\new-dns_x64.exe
+Log=     C:\Tools\DNS-Info-Beacon\build\apply.log
+[COMMANDS]
+-addoverwrite C:\Tools\x64dbg\release\x64\x64dbg.exe, ICONGROUP,,
+-addoverwrite C:\Tools\DNS-Info-Beacon\build\resource-info_x64.res, VERSIONINFO,,

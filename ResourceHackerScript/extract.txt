@@ -1,0 +1,5 @@
+[FILENAMES]
+Exe="C:\Tools\x64dbg\release\x64\x64dbg.exe"
+Log="C:\Tools\DNS-Info-Beacon\build\extract.log"
+[COMMANDS]
+-extract "C:\Tools\DNS-Info-Beacon\build\resource-info_x64.res",VERSIONINFO,,
