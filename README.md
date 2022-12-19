@@ -67,5 +67,6 @@ windres-x64 res/test.res -O coff -o res/resource-info.rs
 In the `windres` command above I used the *test.res* file from that I got cloning Adobe Acrobat EXE
 
 ## References
+- [CPP / C++ - Embed Resources Into Executables](https://caiorss.github.io/C-Cpp-Notes/resources-executable.html)
 - [Resource Hacker](http://angusj.com/resourcehacker/)
 - [Resource Hacker Tutorial](https://wexpert.webs.com/documents/Resouce%20hacker%20tutorial.pdf)
