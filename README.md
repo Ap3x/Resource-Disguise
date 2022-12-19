@@ -14,15 +14,19 @@ I have included two very simple example Resource Hacker scripts to clone Adobe A
 1) Optional: We can either open our payload and add a resource file or we can clone a resource file from a legit EXE.
 
 2) Open an EXE or DLL from the Action->"Add from Resource file"
+
 ![Screenshot1](images/ex1.png)
 
 3) Select the information from the resource file you want to include. In this example we are just saving the icon and version info.
+
 ![Screenshot2](images/ex2.png)
 
 4) Now that we have imported this we can edit the version info or we can keep it the same to clone a EXE
+
 ![Screenshot3](images/ex3.png)
 
 5) Once this is done save the current info to a resource file (.res). Now we have successfully extracted the info we want. If in step one you opened the EXE with no resources we can then save the current EXE with the resources already applied.
+
 ![Screenshot4](images/ex4.png)
 
 ## Example Makefile or Command Line Use
